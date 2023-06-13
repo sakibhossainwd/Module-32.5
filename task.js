@@ -34,5 +34,10 @@ const fiveDivision = (number3) => number3 / 5;
 তারপর যোগফল দুইটা গুণ করবে। ক্যামনে করবে সেটা চিন্তা করে বের করার চেষ্টা করো|
 */
 // 03.2 - solve
-const multiplication = (number4, number5) => num + 2 ; 
-console.log(multiplication(10, 20));
+const multiplication = (number4, number5) => {
+    const sum = number4 + 2;
+    const multiplied = sum * (number5);
+    return multiplied;
+} ; 
+const result1 = multiplication(10, 20);
+console.log(result1);
