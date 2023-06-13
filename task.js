@@ -146,7 +146,7 @@ const userMe = {
             skin: 'dark',
             personality:{
                 hobby: 'football',
-                friends: ['shorab', 'jahangir','jakit', 'soboj'];
+                friends: ['shorab', 'jahangir','jakit', 'soboj']
             }
         }
     }
