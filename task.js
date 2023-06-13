@@ -151,4 +151,5 @@ const userMe = {
         }
     }
 };
+// 12- solve
 console.log(userMe.body.typ?.skin);
