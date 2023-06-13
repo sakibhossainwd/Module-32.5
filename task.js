@@ -27,3 +27,12 @@ const dynamicObject = `This is my Name: ${user.name} and my number: ${user.numbe
 // 03.1 - solve
 const fiveDivision = (number3) => number3 / 5;
 // console.log(fiveDivision(20));
+
+/*
+৩.২ তুমি দুইটা প্যারামিটার ওয়ালা একটা অ্যারো ফাংশন লিখবে।
+সেই ফাংশনের ভিতরে কাজ হবে। প্রত্যেকটা ইনপুট প্যারামিটার এর সাথে ২ যোগ করবে
+তারপর যোগফল দুইটা গুণ করবে। ক্যামনে করবে সেটা চিন্তা করে বের করার চেষ্টা করো|
+*/
+// 03.2 - solve
+const multiplication = (number4, number5) => num + 2 ; 
+console.log(multiplication(10, 20));
