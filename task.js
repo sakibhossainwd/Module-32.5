@@ -40,4 +40,14 @@ const multiplication = (number4, number5) => {
     return multiplied;
 } ; 
 const result1 = multiplication(10, 20);
-console.log(result1);
+// console.log(result1);
+
+/*
+৩.৩ এইবার তিনটা প্যারামিটার ওয়ালা একটা অ্যারো ফাংশন ডিক্লেয়ার করো।
+যেই ফাংশনের কাজ হবে তিনটা প্যারামিটার নিয়ে সেই তিনটা প্যারামিটারকে 
+গুণ করে সেই রেজাল্ট রিটার্ন করবে।
+*/
+// 03.3 - solve
+ const multiplication1 = (num1, num2, num3) => num1 * num2 * num3;
+//  console.log(multiplication1(5, 10, 20));
+
