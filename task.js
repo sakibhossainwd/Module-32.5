@@ -25,4 +25,5 @@ const dynamicObject = `This is my Name: ${user.name} and my number: ${user.numbe
 সংখ্যাকে ৫ দিয়ে ভাগ করে আউটপুট দিবে। 
 */
 // 03.1 - solve
-
+const fiveDivision = (number3) => number3 / 5;
+// console.log(fiveDivision(20));
